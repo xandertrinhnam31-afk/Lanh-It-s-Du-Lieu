@@ -9,10 +9,10 @@
 
 | STT | Họ và tên | Vai trò |
 |---|-----------|---------|
-| 1 | [Trần Huy Khang] | Data Engineer — Xử lý dữ liệu & Trắc nghiệm |
-| 2 | [Lâm Hải Dương] | Data Analyst — EDA Descriptive & Diagnostic |
-| 3 | [Trịnh Ngọc Nam] | Business Analyst — EDA Predictive & Prescriptive |
-| 4 | [Nguyễn Hữu Thành] | ML Engineer — Mô hình dự báo doanh thu |
+| 1 | Trần Huy Khang | Data Engineer — Xử lý dữ liệu & Trắc nghiệm |
+| 2 | Lâm Hải Dương | Data Analyst — EDA Descriptive & Diagnostic |
+| 3 | Trịnh Ngọc Nam | Business Analyst — EDA Predictive & Prescriptive |
+| 4 | Nguyễn Hữu Thành | ML Engineer — Mô hình dự báo doanh thu |
 
 ---
 
