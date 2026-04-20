@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c30ce61b-bd24-4332-8a09-2435d4237d88" name="Changes" comment="feat: encode and merge 14 csv into one">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/01_data_loading_and_mcq.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_data_loading_and_mcq.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="c30ce61b-bd24-4332-8a09-2435d4237d88" name="Changes" comment="feat: add more file in preparation for part 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776692806521</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: add more file in preparation for part 2">
+      <option name="closed" value="true" />
+      <created>1776701324584</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776701324584</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: encode and merge 14 csv into one" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: encode and merge 14 csv into one" />
+    <MESSAGE value="feat: add more file in preparation for part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add more file in preparation for part 2" />
   </component>
 </project>
