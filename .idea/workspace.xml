@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c30ce61b-bd24-4332-8a09-2435d4237d88" name="Changes" comment="feat: encode and merge 14 csv into one">
+    <list default="true" id="c30ce61b-bd24-4332-8a09-2435d4237d88" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/01_data_loading_and_mcq.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_data_loading_and_mcq.ipynb" afterDir="false" />
     </list>
@@ -11,6 +11,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
@@ -52,6 +58,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\skvat\PycharmProjects\Lanh-It-s-Du-Lieu\dataset" />
@@ -105,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776692806521</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix: sửa file dim và fact lặp">
+      <option name="closed" value="true" />
+      <created>1776704621476</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776704621476</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +150,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: encode and merge 14 csv into one" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: encode and merge 14 csv into one" />
+    <MESSAGE value="fix: sửa file dim và fact lặp" />
+    <MESSAGE value="fix: repair save function 3.4" />
+    <MESSAGE value="fix: sửa" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: sửa" />
   </component>
 </project>
