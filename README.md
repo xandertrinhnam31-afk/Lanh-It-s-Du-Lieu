@@ -7,12 +7,12 @@
 
 ## Thành viên nhóm
 
-| # | Họ và tên | MSSV | Vai trò |
-|---|-----------|------|---------|
-| 1 | [Tên TM1] | [MSSV] | Data Engineer — Xử lý dữ liệu & Trắc nghiệm |
-| 2 | [Tên TM2] | [MSSV] | Data Analyst — EDA Descriptive & Diagnostic |
-| 3 | [Tên TM3] | [MSSV] | Business Analyst — EDA Predictive & Prescriptive |
-| 4 | [Tên TM4] | [MSSV] | ML Engineer — Mô hình dự báo doanh thu |
+| # | Họ và tên | Vai trò |
+|---|-----------|--------|
+| 1 | [Tên TM1] |  Data Engineer — Xử lý dữ liệu & Trắc nghiệm |
+| 2 | [Tên TM2] | Data Analyst — EDA Descriptive & Diagnostic |
+| 3 | [Tên TM3] | Business Analyst — EDA Predictive & Prescriptive |
+| 4 | [Tên TM4] |  ML Engineer — Mô hình dự báo doanh thu |
 
 ---
 
@@ -71,7 +71,7 @@ datathon-2026-gridbreakers/
 ### Cài đặt thư viện
 
 ```bash
-git clone https://github.com/[username]/datathon-2026-gridbreakers.git
+git clone https://github.com/xandertrinhnam31-afk/Lanh-It-s-Du-Lieu
 cd datathon-2026-gridbreakers
 pip install -r requirements.txt
 ```
@@ -123,20 +123,12 @@ data/
 
 ## Hướng dẫn chạy lại kết quả
 
-Chạy các notebook theo **đúng thứ tự** sau:
+Chạy notebook sau:
 
 ```bash
 # Bước 1 — Load dữ liệu và kiểm tra
 jupyter notebook notebooks/01_data_loading_and_mcq.ipynb
 
-# Bước 2 — EDA Descriptive & Diagnostic
-jupyter notebook notebooks/02_eda_descriptive_diagnostic.ipynb
-
-# Bước 3 — EDA Predictive & Prescriptive
-jupyter notebook notebooks/03_eda_predictive_prescriptive.ipynb
-
-# Bước 4 — Train mô hình và tạo submission
-jupyter notebook notebooks/04_forecasting_model.ipynb
 ```
 
 > **Lưu ý:** Tất cả notebook đã được đặt `random_seed = 42`. Kết quả phải tái lập hoàn toàn trên mọi máy có cùng dữ liệu và môi trường.
