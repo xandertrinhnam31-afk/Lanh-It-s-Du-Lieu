@@ -38,12 +38,7 @@
 ## Link nộp bài
 
 - Kaggle submission: [link]
-- Báo cáo PDF: [link hoặc xem thư mục /report]
+- Báo cáo PDF: [xem folder report]
 
 ---
 
-## Ghi chú
-
-- Toàn bộ đặc trưng mô hình được tạo **chỉ từ dữ liệu được cung cấp**, không sử dụng nguồn ngoài
-- Cross-validation sử dụng `TimeSeriesSplit` để tránh data leakage theo chiều thời gian
-- Mọi thắc mắc liên quan đến cuộc thi: liên hệ VinTelligence qua kênh chính thức
