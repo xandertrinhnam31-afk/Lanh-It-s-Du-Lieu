@@ -1,0 +1,50 @@
+
+ERROR ANALYSIS SUMMARY REPORT
+================================================================================
+
+Dataset:
+  - Total samples: 3622
+  - Training: 2897 samples (2013-01-31 to 2021-01-05)
+  - Testing: 725 samples (2021-01-06 to 2022-12-31)
+
+Overall Performance (LAG-7 Forecast):
+  - MAE: 1,200,382.29
+  - RMSE: 1,739,204.47
+  - MAPE: 50.15%
+  - Min Error: 886.71
+  - Max Error: 7,683,236.77
+  - Std Dev: 1,259,405.53
+
+Worst Month: 4 (Apr) - MAE: 2,165,141.20
+Best Month: 12 (Dec) - MAE: 575,633.33
+
+Top Error-Causing Features:
+  1. revenue_roll_std_7_lag1: 0.7329
+  2. actual_revenue_lag7: 0.6150
+  3. revenue_roll_mean_14_lag1: 0.4879
+  4. revenue_roll_mean_7_lag1: 0.4482
+  5. revenue_ewma_30_lag1: 0.4068
+
+
+SEASONALITY PATTERN:
+Pattern lặp lại giữa các năm: YES - Pattern rõ ràng
+
+Monthly Error Pattern (2021 - 2022):
+  Month  1 (Jan): MAE = 667,833.17 (n=57)
+  Month  2 (Feb): MAE = 1,028,655.77 (n=56)
+  Month  3 (Mar): MAE = 1,491,816.17 (n=62)
+  Month  4 (Apr): MAE = 2,165,141.20 (n=60)
+  Month  5 (May): MAE = 1,657,760.11 (n=62)
+  Month  6 (Jun): MAE = 1,611,056.98 (n=60)
+  Month  7 (Jul): MAE = 1,193,355.88 (n=62)
+  Month  8 (Aug): MAE = 1,281,171.35 (n=62)
+  Month  9 (Sep): MAE = 1,206,946.19 (n=60)
+  Month 10 (Oct): MAE = 738,740.17 (n=62)
+  Month 11 (Nov): MAE = 757,195.12 (n=60)
+  Month 12 (Dec): MAE = 575,633.33 (n=62)
+
+
+INSIGHTS:
+1. Sai số lớn nhất vào tháng 4 (Apr) - Khó dự báo
+2. Sai số nhỏ nhất vào tháng 12 (Dec) - Dễ dự báo
+3. Pattern  lặp lại qua các năm
