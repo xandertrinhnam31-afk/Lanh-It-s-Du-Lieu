@@ -17,22 +17,6 @@
 ---
 
 
-
-## Đáp án Trắc nghiệm (Phần 1)
-
-| Câu | Đáp án | Ghi chú |
-|-----|--------|---------|
-| Q1  | [A/B/C/D] | Median inter-order gap |
-| Q2  | [A/B/C/D] | Gross margin theo segment |
-| Q3  | [A/B/C/D] | Return reason — Streetwear |
-| Q4  | [A/B/C/D] | Bounce rate thấp nhất |
-| Q5  | [A/B/C/D] | % order_items có promo |
-| Q6  | [A/B/C/D] | Age group đơn hàng cao nhất |
-| Q7  | [A/B/C/D] | Region doanh thu cao nhất |
-| Q8  | [A/B/C/D] | Payment method — cancelled |
-| Q9  | [A/B/C/D] | Size return rate cao nhất |
-| Q10 | [A/B/C/D] | Installment plan — giá trị cao nhất |
-
 ---
 
 ## Link nộp bài
